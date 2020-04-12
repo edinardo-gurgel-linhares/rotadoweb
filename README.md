@@ -34,8 +34,8 @@ Obs.: caso não faça, realizar esse procedimento:
 * no terminal do VSCODE  para iniciar o git ou outro editor de texto de sua escolha, digite o comando: git init 
 * digite o comando: git remote add origin https://github.com/login-do-github/rotadoweb.git
 * digite o comando: git status (para ver as pastas do projeto)
-* digite o comando: git add . (para adicionar o peojeto, inclusive o espaço e ponto)
-* digite o comando: git commit -m "Inicio do projeto ROTADOWEB - Migrations iniciais"
+* digite o comando: git add . (para adicionar o projeto, inclusive o espaço e ponto)
+* digite o comando: git commit -m "Adicionando Autenticação"
 * digite o comando: git push --force origin master
 
 
