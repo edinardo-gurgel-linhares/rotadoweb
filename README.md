@@ -26,17 +26,17 @@ Obs.: caso não faça, realizar esse procedimento:
 * digite o comando: php artisan key:generate
 
 ## Subindo Arquivos para o GitHub
-*primeiro abra o github
-*faça login com a conta conta de email cadastrada no github
-*no botão lateral superior direito, escolha a opção your repositories
-*no botão verde direito, clique na opção clone or download
-*copie o endereço
-*no terminal do VSCODE  para iniciar o git ou outro editor de texto de sua escolha, digite o comando: git init 
-*digite o comando: git remote add origin https://github.com/login-do-github/rotadoweb.git
-*digite o comando: git status (para ver as pastas do projeto)
-*digite o comando: git add . (para adicionar o peojeto, inclusive o espaço e ponto)
-*digite o comando: git commit -m "Inicio do projeto ROTADOWEB - Migrations iniciais"
-*digite o comando: git push --force origin master
+* primeiro abra o github
+* faça login com a conta conta de email cadastrada no github
+* no botão lateral superior direito, escolha a opção your repositories
+* no botão verde direito, clique na opção clone or download
+* copie o endereço
+* no terminal do VSCODE  para iniciar o git ou outro editor de texto de sua escolha, digite o comando: git init 
+* digite o comando: git remote add origin https://github.com/login-do-github/rotadoweb.git
+* digite o comando: git status (para ver as pastas do projeto)
+* digite o comando: git add . (para adicionar o peojeto, inclusive o espaço e ponto)
+* digite o comando: git commit -m "Inicio do projeto ROTADOWEB - Migrations iniciais"
+* digite o comando: git push --force origin master
 
 
 ## License
