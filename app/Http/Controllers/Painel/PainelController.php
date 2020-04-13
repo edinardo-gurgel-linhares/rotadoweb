@@ -26,6 +26,8 @@ class PainelController extends Controller
      */
     public function index()
     {
-        return view('painel.index');
+        $user = Auth()->User();
+        //O compact envia os dados de usuario para a View 
+        return view('painel.index', compact('user'));
     }
 }
