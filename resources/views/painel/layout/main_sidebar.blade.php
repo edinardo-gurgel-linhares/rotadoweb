@@ -47,14 +47,14 @@
               </li>
               <li class="nav-item">
                 <a href="{{route('home.index')}}" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
+                  <i class="fa fa-home"></i>
                   <p>Home</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="./index3.html" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Painel 03</p>
+                <a href="{{route('user.lista')}}" class="nav-link">
+                  <i class="fa fa-users"></i>
+                  <p>Listar Usuarios</p>
                 </a>
               </li>
             </ul>

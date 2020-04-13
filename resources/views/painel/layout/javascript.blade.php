@@ -14,7 +14,6 @@
 <!-- Sparkline -->
 <script src="{{ asset('AdminLTE/plugins/sparklines/sparkline.js')}}"></script>
 <!-- JQVMap -->
-<script src="{{ asset('AdminLTE/plugins/jqvmap/jquery.vmap.min.js')}}"></script>
 <script src="{{ asset('AdminLTE/plugins/jqvmap/maps/jquery.vmap.usa.js')}}"></script>
 <!-- jQuery Knob Chart -->
 <script src="{{ asset('AdminLTE/plugins/jquery-knob/jquery.knob.min.js')}}"></script>
@@ -33,3 +32,4 @@
 <script src="{{ asset('AdminLTE/dist/js/pages/dashboard.js')}}"></script>
 <!-- AdminLTE for demo purposes -->
 <script src="{{ asset('AdminLTE/dist/js/demo.js')}}"></script>
+
